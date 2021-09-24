@@ -1,98 +1,98 @@
-"","lat","lng","name","desc","color","source","precision","merchant_type","merchant_type_color","merchant_type_color2"
-"1",40.00709,-105.27206,"Alferd Packer Grill,1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"2",40.00479,-105.26506,"The Bakery C4C,2249 Willard Loop Drive,Boulder, CO 80305","Willard Loop Drive, Boulder, CO, US",NA,"MapQuest","street","On campus","#E69F00","orange"
-"3",40.006,-105.2658,"Farrand Market,2200 Baker Drive,Boulder, CO 80310","2200 Baker Drive, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"4",40.0083,-105.26797,"Foolish Craig s Too,1925 Colorado Avenue ,Boulder, CO 80302","1925 Colorado Avenue, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"5",39.99807,-105.25284,"The Grotto,500 30th Street,Boulder, CO 80303","500 30th Street, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"6",40.00709,-105.27206,"Jamba Juice (UMC),1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"7",40.0033,-105.26295,"Kittredge Market,2480 Kittredge Loop Drive,Boulder, CO 80309","2480 Kittredge Loop Drive, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"8",40.00819,-105.26144,"Sewall Market,1720 University Ave,Boulder, CO 80310","Colorado Avenue, Boulder, CO, US",NA,"MapQuest","street","On campus","#E69F00","orange"
-"9",40.00709,-105.27206,"Starbucks (UMC),1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"10",40.00709,-105.27206,"Subway (UMC),1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"11",40.00709,-105.27206,"UMC Market,1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"12",39.99731,-105.25257,"Village Market,510 30th Street,Boulder, CO 80303","510 30th Street, Boulder, CO, US",NA,"MapQuest","address","On campus","#E69F00","orange"
-"13",40.00479,-105.26506,"WeatherTech Cafe C4C,2249 Willard Loop Dr,Boulder, CO 80305","Willard Loop Drive, Boulder, CO, US",NA,"MapQuest","street","On campus","#E69F00","orange"
-"14",40.00708,-105.27643,"7-Eleven,1091 13th Street,Boulder, CO 80302","1091 13th Street, Boulder, CO, US",NA,"MapQuest","address","Convenient store","#000000","red"
-"15",40.01008,-105.27709,"Bova s Market & Grill,1325 Broadway,Boulder, CO 80302","1325 Broadway Street, Boulder, CO, US",NA,"MapQuest","address","Convenient store","#000000","red"
-"16",40.00798,-105.27605,"University Hill Market & Deli,1134 13th Street,Boulder, CO 80302","1134 13th Street, Boulder, CO, US",NA,"MapQuest","address","Convenient store","#000000","red"
-"17",39.98548,-105.23814,"ShortStop Conoco,4742 Table Mesa Dr,Boulder, CO 80303","4742 Table Mesa Drive, Boulder, CO, US",NA,"MapQuest","address","Gas station","#CC79A7","pink"
-"18",39.99954,-105.25341,"ShortStop Conoco,2990 Baseline Rd,Boulder, CO 80303","2990 Baseline Road, Boulder, CO, US",NA,"MapQuest","address","Gas station","#CC79A7","pink"
-"19",40.01349,-105.25965,"Safeway (Arapahoe),2798 Arapahoe Ave,Boulder, CO 80302","2798 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Grocery store","#009E73","green"
-"20",39.99883,-105.23418,"Safeway (Baseline),4800 E. Baseline Rd,Boulder, CO 80302","4800 The Meadows, Boulder, CO, US",NA,"MapQuest","address","Grocery store","#009E73","green"
-"21",40.03516,-105.25991,"Safeway (Iris & 28th),3325 28th Street,Boulder, CO 80302","3325 28th Street, Boulder, CO, US",NA,"MapQuest","address","Grocery store","#009E73","green"
-"22",40.01627,-105.26175,"Sprouts (Arapahoe),2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Grocery store","#009E73","green"
-"23",39.999,-105.25453,"Sprouts (Baseline),2950 Baseline Rd,Boulder, CO 80303","2950 Baseline Road, Boulder, CO, US",NA,"MapQuest","address","Grocery store","#009E73","green"
-"24",40.02407,-105.25606,"Whole Foods (Pearl),2905 Pearl Street,Boulder, CO 80301","2905 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Grocery store","#009E73","green"
-"25",40.00817,-105.27658,"Ado s Kitchen,1143 13th Street,Boulder, CO 80302","1143 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"26",40.01807,-105.277,"Blofish Sushi,1932 14th Street,Boulder, CO 80302","1932 14th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"27",40.00789,-105.27659,"Boss Lady Pizza,1129 13th Street,Boulder, CO 80302","1129 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"28",40.00704,-105.2759,"Boulder Burger,1310 College, #210,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"29",40.00704,-105.2759,"Boulder Salad,1310 College, #200,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"30",40.00885,-105.277,"Cafe Aion,1235 Pennsylvania,Boulder, CO 80302","1235 Pennsylvania Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"31",40.01719,-105.28254,"Centro Mexican Kitchen,950 Pearl Street,Boulder, CO 80302","950 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"32",40.01022,-105.27706,"Chicken on the Hill,1335 Broadway,Boulder, CO 80302","1335 Broadway Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"33",40.01627,-105.26175,"Chop5 Salad Kitchen,2525 Arapahoe Ave. Unit H6,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"34",40.00748,-105.27588,"The Corner,1100 13th Street,Boulder, CO 80302","1100 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"35",40.01022,-105.27706,"D.P. Dough,1335 Broadway, Unit A,Boulder, CO 80302","1335 Broadway Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"36",39.99997,-105.23394,"Deli Zone (Baseline),4800 Baseline Road,Boulder, CO 80303","4800 Baseline Road, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"37",40.00718,-105.27578,"Deli Zone (Hill),1322 College Ave,Boulder, CO 80302","1322 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"38",40.02872,-105.25559,"Deli Zone (Valmont),2900 Valmont Rd,Boulder, CO 80301","2900 Valmont Road, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"39",40.02013,-105.2705,"Dish Gourmet,1918 Pearl Street,Boulder, CO 80302","1918 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"40",40.0179,-105.26177,"Domino s Pizza (Canyon),2425 Canyon Blvd,Boulder, CO 80302","2425 Canyon Boulevard, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"41",40.01002,-105.27732,"Dot s Diner on the Hill,1333 Broadway,Boulder, CO 80302","1333 Broadway Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"42",40.00761,-105.2759,"Fat Shack,1110 13th Street,Boulder, CO 80302","1110 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"43",40.01433,-105.26049,"Flower Child,2580 Arapahoe Ave,Boulder, CO 80302","2580 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"44",40.019181,-105.2744427,"Foolish Craig s,1611 Pearl Street,Boulder, CO 80302","Boulder, Boulder County, CO, US",NA,"MapQuest","postcode","Restaurants","#56B4E9","blue"
-"45",40.00763,-105.27606,"Gaia Masala and Burger,1116 13th Street,Boulder, CO 80302","1116 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"46",40.01561,-105.25943,"Golden Sun Chinese,1635 28th Street,Boulder, CO 80301","1635 28th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"47",40.00704,-105.2759,"Gurkha s on the Hill,1310 College Ave,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"48",40.01755,-105.28008,"Haagen Dazs,1148 Pearl Street,Boulder, CO 80302","1148 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"49",40.00899,-105.27659,"Half Fast Subs,1215 13th Street,Boulder, CO 80302","1215 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"50",40.01802,-105.28085,"Hapa Sushi,1117 Pearl Street,Boulder, CO 80302","1117 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"51",40.00718,-105.27594,"Illegal Pete s on the Hill,1320 College Ave,Boulder, CO 80302","1320 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"52",40.01883,-105.27631,"Illegal Pete s on Pearl,1447 Pearl Street,Boulder, CO 80302","1447 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"53",40.00884,-105.27658,"Insomnia Cookies,1203 13th Street, #2,Boulder, CO 80302","1203 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"54",40.01698,-105.27889,"Jaipur Indian Restaurant,1214 Walnut Street,Boulder, CO 80302","1214 Walnut Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"55",40.01493,-105.25244,"Jamba Juice (Arapahoe),3053 Arapahoe,Boulder, CO 80303","3053 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"56",40.01451,-105.26265,"Kalita Grill Greek Cafe,2426 Arapahoe Ave,Boulder, CO 80302","2426 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"57",40.00884,-105.27658,"La Choza,1203 13th St,Boulder, CO 80302","1203 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"58",40.01627,-105.26175,"Le Peep,2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"59",40.01755,-105.28008,"Lindsay s Boulder Deli,1148 Pearl Street,Boulder, CO 80302","1148 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"60",40.00816,-105.27606,"Lollicup,1142 13th Street,Boulder, CO 80303","1142 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"61",39.99947,-105.25516,"McDonald s (Baseline),2920 Baseline Rd,Boulder, CO 80303","2920 Baseline Road, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"62",40.01819,-105.25593,"Modern Market,1600 28th Street,Boulder, CO 80301","1600 28th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"63",40.0151,-105.252,"Moe s Bagels (Arapahoe),3075 Arapahoe Ave,Boulder, CO 80303","3075 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"64",40.01168,-105.2776,"Moe s Bagels (Broadway),2650 Broadway,Boulder, CO 80304","Broadway, Boulder, CO, US",NA,"MapQuest","street","Restaurants","#56B4E9","blue"
-"65",39.98431,-105.24898,"Moe s Bagels (South Boulder),637 S. Broadway,Boulder, CO 80305","637 South Broadway Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"66",40.01819,-105.25593,"Motomaki,1600 28th Street,Boulder, CO 80301","1600 28th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"67",40.01444,-105.27897,"Mustard s Last Stand,1719 Broadway,Boulder, CO 80302","1719 Broadway Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"68",40.01618,-105.25621,"Native Foods Cafe,1675 29th St, STE 1272,Boulder, CO 80301","1675 29th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"69",40.01819,-105.25593,"Noodles & Co. (29th Street),1600 28th Street,Boulder, CO 80301","1600 28th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"70",40.00022,-105.26146,"Noodles & Co. (Basemar),2602 Baseline Road,Boulder, CO 80305","2602 Baseline Road, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"71",40.01853,-105.2753,"Organic Sandwich Company,1500 Pearl Street,Boulder, CO 80302","1500 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"72",40.0177,-105.2824,"Pasta Jay s,1001 Pearl Street,Boulder, CO 80302","1001 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"73",40.00718,-105.27594,"Peckish,1320 College Ave,Boulder, CO 80302","1320 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"74",40.00748,-105.27587,"Pizza 3.14,1313 College Ave,Boulder, CO 80302","1313 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"75",40.00751,-105.27659,"The Point Cafe,1101 13th Street,Boulder, CO 80302","1101 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"76",40.01877,-105.27908,"The Post Brewing Co.,2027 13th Street,Boulder, CO 80302","2027 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"77",40.01537,-105.25897,"Qdoba on 28th Street,1625 28th Street,Boulder, CO 80302","1625 28th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"78",40.01876,-105.27704,"Rooted Craft Kitchen,1401 Pearl Street (Avanti),Boulder, CO 80302","1401 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"79",40.00725,-105.27662,"Rosenberg s Bagels & Delicatessen,1262 College Ave,Boulder, CO 80302","1262 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"80",40.01168,-105.2776,"Roxie s Tacos,1135 Broadway,Boulder, CO 80302","Broadway, Boulder, CO, US",NA,"MapQuest","street","Restaurants","#56B4E9","blue"
-"81",40.00884,-105.27644,"Rush Bowls,1207 13th Street,Boulder, CO 80302","1207 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"82",40.036037,-105.349559,"Santiago s,1325 Broadway,Boulder, CO 80302","Boulder, Boulder County, CO, US",NA,"MapQuest","postcode","Restaurants","#56B4E9","blue"
-"83",40.00749,-105.27641,"Scrooge Maki,1107 13th Street,Boulder, CO 80302","1107 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"84",40.00704,-105.2759,"Seoul Kitchen,1310 College Ave,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"85",40.00851,-105.27658,"The Sink,1165 13th Street,Boulder, CO 80302","1165 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"86",40.01604,-105.25716,"Smashburger,1650 28th Street,Boulder, CO 80301","1650 28th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"87",39.9929,-105.26325,"South Mouth Wings,1650 Broadway,Boulder, CO 80302","Boulder, CO, US",NA,"MapQuest","street","Restaurants","#56B4E9","blue"
-"88",39.99854,-105.26206,"Subway (Basemar Center),2480 Baseline Road,Boulder, CO 80305","2480 Baseline Road, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"89",40.06545,-105.28797,"Sushi Hana,1220 Penn. Ave,Boulder, CO 80302","Dakota Boulevard, Boulder, CO, US",NA,"MapQuest","street","Restaurants","#56B4E9","blue"
-"90",40.00826,-105.27658,"Taco Junky,1149 13th Street,Boulder, CO 80302","1149 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"91",40.00704,-105.2759,"Thai Avenue,1310 College Ave,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"92",40.01627,-105.26175,"Vitality Bowls,2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"93",40.00835,-105.27658,"The Waffle Lab,1155 13th Street,Boulder, CO 80302","1155 13th Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"94",40.01691,-105.28319,"West End Tavern,926 Pearl Street,Boulder, CO 80302","926 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"95",40.01716,-105.28264,"Wonder,946 Pearl Street,Boulder, CO 80302","946 Pearl Street, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"96",40.01627,-105.26175,"Woodgrain Bagels,2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
-"97",40.01627,-105.26175,"Yellowbelly Chicken,2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,"MapQuest","address","Restaurants","#56B4E9","blue"
+,lat,lng,name,desc,color,source,precision,merchant_type,merchant_type_color,merchant_type_color2
+1,40.00709,-105.27206,"Alferd Packer Grill,1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+2,40.00479,-105.26506,"The Bakery C4C,2249 Willard Loop Drive,Boulder, CO 80305","Willard Loop Drive, Boulder, CO, US",NA,MapQuest,street,On campus,#E69F00,orange
+3,40.006,-105.2658,"Farrand Market,2200 Baker Drive,Boulder, CO 80310","2200 Baker Drive, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+4,40.0083,-105.26797,"Foolish Craig s Too,1925 Colorado Avenue ,Boulder, CO 80302","1925 Colorado Avenue, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+5,39.99807,-105.25284,"The Grotto,500 30th Street,Boulder, CO 80303","500 30th Street, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+6,40.00709,-105.27206,"Jamba Juice (UMC),1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+7,40.0033,-105.26295,"Kittredge Market,2480 Kittredge Loop Drive,Boulder, CO 80309","2480 Kittredge Loop Drive, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+8,40.00819,-105.26144,"Sewall Market,1720 University Ave,Boulder, CO 80310","Colorado Avenue, Boulder, CO, US",NA,MapQuest,street,On campus,#E69F00,orange
+9,40.00709,-105.27206,"Starbucks (UMC),1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+10,40.00709,-105.27206,"Subway (UMC),1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+11,40.00709,-105.27206,"UMC Market,1669 Euclid Ave,Boulder, CO 80309","1669 Euclid Avenue, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+12,39.99731,-105.25257,"Village Market,510 30th Street,Boulder, CO 80303","510 30th Street, Boulder, CO, US",NA,MapQuest,address,On campus,#E69F00,orange
+13,40.00479,-105.26506,"WeatherTech Cafe C4C,2249 Willard Loop Dr,Boulder, CO 80305","Willard Loop Drive, Boulder, CO, US",NA,MapQuest,street,On campus,#E69F00,orange
+14,40.00708,-105.27643,"7-Eleven,1091 13th Street,Boulder, CO 80302","1091 13th Street, Boulder, CO, US",NA,MapQuest,address,Convenient store,#000000,red
+15,40.01008,-105.27709,"Bova s Market & Grill,1325 Broadway,Boulder, CO 80302","1325 Broadway Street, Boulder, CO, US",NA,MapQuest,address,Convenient store,#000000,red
+16,40.00798,-105.27605,"University Hill Market & Deli,1134 13th Street,Boulder, CO 80302","1134 13th Street, Boulder, CO, US",NA,MapQuest,address,Convenient store,#000000,red
+17,39.98548,-105.23814,"ShortStop Conoco,4742 Table Mesa Dr,Boulder, CO 80303","4742 Table Mesa Drive, Boulder, CO, US",NA,MapQuest,address,Gas station,#CC79A7,pink
+18,39.99954,-105.25341,"ShortStop Conoco,2990 Baseline Rd,Boulder, CO 80303","2990 Baseline Road, Boulder, CO, US",NA,MapQuest,address,Gas station,#CC79A7,pink
+19,40.01349,-105.25965,"Safeway (Arapahoe),2798 Arapahoe Ave,Boulder, CO 80302","2798 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Grocery store,#009E73,green
+20,39.99883,-105.23418,"Safeway (Baseline),4800 E. Baseline Rd,Boulder, CO 80302","4800 The Meadows, Boulder, CO, US",NA,MapQuest,address,Grocery store,#009E73,green
+21,40.03516,-105.25991,"Safeway (Iris & 28th),3325 28th Street,Boulder, CO 80302","3325 28th Street, Boulder, CO, US",NA,MapQuest,address,Grocery store,#009E73,green
+22,40.01627,-105.26175,"Sprouts (Arapahoe),2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Grocery store,#009E73,green
+23,39.999,-105.25453,"Sprouts (Baseline),2950 Baseline Rd,Boulder, CO 80303","2950 Baseline Road, Boulder, CO, US",NA,MapQuest,address,Grocery store,#009E73,green
+24,40.02407,-105.25606,"Whole Foods (Pearl),2905 Pearl Street,Boulder, CO 80301","2905 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Grocery store,#009E73,green
+25,40.00817,-105.27658,"Ado s Kitchen,1143 13th Street,Boulder, CO 80302","1143 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+26,40.01807,-105.277,"Blofish Sushi,1932 14th Street,Boulder, CO 80302","1932 14th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+27,40.00789,-105.27659,"Boss Lady Pizza,1129 13th Street,Boulder, CO 80302","1129 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+28,40.00704,-105.2759,"Boulder Burger,1310 College, #210,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+29,40.00704,-105.2759,"Boulder Salad,1310 College, #200,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+30,40.00885,-105.277,"Cafe Aion,1235 Pennsylvania,Boulder, CO 80302","1235 Pennsylvania Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+31,40.01719,-105.28254,"Centro Mexican Kitchen,950 Pearl Street,Boulder, CO 80302","950 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+32,40.01022,-105.27706,"Chicken on the Hill,1335 Broadway,Boulder, CO 80302","1335 Broadway Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+33,40.01627,-105.26175,"Chop5 Salad Kitchen,2525 Arapahoe Ave. Unit H6,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+34,40.00748,-105.27588,"The Corner,1100 13th Street,Boulder, CO 80302","1100 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+35,40.01022,-105.27706,"D.P. Dough,1335 Broadway, Unit A,Boulder, CO 80302","1335 Broadway Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+36,39.99997,-105.23394,"Deli Zone (Baseline),4800 Baseline Road,Boulder, CO 80303","4800 Baseline Road, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+37,40.00718,-105.27578,"Deli Zone (Hill),1322 College Ave,Boulder, CO 80302","1322 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+38,40.02872,-105.25559,"Deli Zone (Valmont),2900 Valmont Rd,Boulder, CO 80301","2900 Valmont Road, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+39,40.02013,-105.2705,"Dish Gourmet,1918 Pearl Street,Boulder, CO 80302","1918 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+40,40.0179,-105.26177,"Domino s Pizza (Canyon),2425 Canyon Blvd,Boulder, CO 80302","2425 Canyon Boulevard, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+41,40.01002,-105.27732,"Dot s Diner on the Hill,1333 Broadway,Boulder, CO 80302","1333 Broadway Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+42,40.00761,-105.2759,"Fat Shack,1110 13th Street,Boulder, CO 80302","1110 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+43,40.01433,-105.26049,"Flower Child,2580 Arapahoe Ave,Boulder, CO 80302","2580 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+44,40.019181,-105.2744427,"Foolish Craig s,1611 Pearl Street,Boulder, CO 80302","Boulder, Boulder County, CO, US",NA,MapQuest,postcode,Restaurants,#56B4E9,blue
+45,40.00763,-105.27606,"Gaia Masala and Burger,1116 13th Street,Boulder, CO 80302","1116 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+46,40.01561,-105.25943,"Golden Sun Chinese,1635 28th Street,Boulder, CO 80301","1635 28th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+47,40.00704,-105.2759,"Gurkha s on the Hill,1310 College Ave,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+48,40.01755,-105.28008,"Haagen Dazs,1148 Pearl Street,Boulder, CO 80302","1148 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+49,40.00899,-105.27659,"Half Fast Subs,1215 13th Street,Boulder, CO 80302","1215 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+50,40.01802,-105.28085,"Hapa Sushi,1117 Pearl Street,Boulder, CO 80302","1117 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+51,40.00718,-105.27594,"Illegal Pete s on the Hill,1320 College Ave,Boulder, CO 80302","1320 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+52,40.01883,-105.27631,"Illegal Pete s on Pearl,1447 Pearl Street,Boulder, CO 80302","1447 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+53,40.00884,-105.27658,"Insomnia Cookies,1203 13th Street, #2,Boulder, CO 80302","1203 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+54,40.01698,-105.27889,"Jaipur Indian Restaurant,1214 Walnut Street,Boulder, CO 80302","1214 Walnut Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+55,40.01493,-105.25244,"Jamba Juice (Arapahoe),3053 Arapahoe,Boulder, CO 80303","3053 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+56,40.01451,-105.26265,"Kalita Grill Greek Cafe,2426 Arapahoe Ave,Boulder, CO 80302","2426 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+57,40.00884,-105.27658,"La Choza,1203 13th St,Boulder, CO 80302","1203 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+58,40.01627,-105.26175,"Le Peep,2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+59,40.01755,-105.28008,"Lindsay s Boulder Deli,1148 Pearl Street,Boulder, CO 80302","1148 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+60,40.00816,-105.27606,"Lollicup,1142 13th Street,Boulder, CO 80303","1142 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+61,39.99947,-105.25516,"McDonald s (Baseline),2920 Baseline Rd,Boulder, CO 80303","2920 Baseline Road, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+62,40.01819,-105.25593,"Modern Market,1600 28th Street,Boulder, CO 80301","1600 28th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+63,40.0151,-105.252,"Moe s Bagels (Arapahoe),3075 Arapahoe Ave,Boulder, CO 80303","3075 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+64,40.02506,-105.28104,"Moe s Bagels (Broadway),2650 Broadway,Boulder, CO 80304","Broadway, Boulder, CO, US",NA,MapQuest,street,Restaurants,#56B4E9,blue
+65,39.98431,-105.24898,"Moe s Bagels (South Boulder),637 S. Broadway,Boulder, CO 80305","637 South Broadway Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+66,40.01819,-105.25593,"Motomaki,1600 28th Street,Boulder, CO 80301","1600 28th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+67,40.01444,-105.27897,"Mustard s Last Stand,1719 Broadway,Boulder, CO 80302","1719 Broadway Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+68,40.01618,-105.25621,"Native Foods Cafe,1675 29th St, STE 1272,Boulder, CO 80301","1675 29th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+69,40.01819,-105.25593,"Noodles & Co. (29th Street),1600 28th Street,Boulder, CO 80301","1600 28th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+70,40.00022,-105.26146,"Noodles & Co. (Basemar),2602 Baseline Road,Boulder, CO 80305","2602 Baseline Road, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+71,40.01853,-105.2753,"Organic Sandwich Company,1500 Pearl Street,Boulder, CO 80302","1500 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+72,40.0177,-105.2824,"Pasta Jay s,1001 Pearl Street,Boulder, CO 80302","1001 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+73,40.00718,-105.27594,"Peckish,1320 College Ave,Boulder, CO 80302","1320 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+74,40.00748,-105.27587,"Pizza 3.14,1313 College Ave,Boulder, CO 80302","1313 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+75,40.00751,-105.27659,"The Point Cafe,1101 13th Street,Boulder, CO 80302","1101 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+76,40.01877,-105.27908,"The Post Brewing Co.,2027 13th Street,Boulder, CO 80302","2027 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+77,40.01537,-105.25897,"Qdoba on 28th Street,1625 28th Street,Boulder, CO 80302","1625 28th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+78,40.01876,-105.27704,"Rooted Craft Kitchen,1401 Pearl Street (Avanti),Boulder, CO 80302","1401 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+79,40.00725,-105.27662,"Rosenberg s Bagels & Delicatessen,1262 College Ave,Boulder, CO 80302","1262 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+80,40.0099574,-105.2780216,"Roxie s Tacos,1135 Broadway,Boulder, CO 80302","Broadway, Boulder, CO, US",NA,MapQuest,street,Restaurants,#56B4E9,blue
+81,40.00884,-105.27644,"Rush Bowls,1207 13th Street,Boulder, CO 80302","1207 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+82,40.0100109,-105.2773796,"Santiago s,1325 Broadway,Boulder, CO 80302","Boulder, Boulder County, CO, US",NA,MapQuest,postcode,Restaurants,#56B4E9,blue
+83,40.00749,-105.27641,"Scrooge Maki,1107 13th Street,Boulder, CO 80302","1107 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+84,40.00704,-105.2759,"Seoul Kitchen,1310 College Ave,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+85,40.00851,-105.27658,"The Sink,1165 13th Street,Boulder, CO 80302","1165 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+86,40.01604,-105.25716,"Smashburger,1650 28th Street,Boulder, CO 80301","1650 28th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+87,40.0139982,-105.2804108,"South Mouth Wings,1650 Broadway,Boulder, CO 80302","Boulder, CO, US",NA,MapQuest,street,Restaurants,#56B4E9,blue
+88,39.99854,-105.26206,"Subway (Basemar Center),2480 Baseline Road,Boulder, CO 80305","2480 Baseline Road, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+89,40.0087048,-105.27676,"Sushi Hana,1220 Penn. Ave,Boulder, CO 80302","Dakota Boulevard, Boulder, CO, US",NA,MapQuest,street,Restaurants,#56B4E9,blue
+90,40.00826,-105.27658,"Taco Junky,1149 13th Street,Boulder, CO 80302","1149 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+91,40.00704,-105.2759,"Thai Avenue,1310 College Ave,Boulder, CO 80302","1310 College Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+92,40.01627,-105.26175,"Vitality Bowls,2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+93,40.00835,-105.27658,"The Waffle Lab,1155 13th Street,Boulder, CO 80302","1155 13th Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+94,40.01691,-105.28319,"West End Tavern,926 Pearl Street,Boulder, CO 80302","926 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+95,40.01716,-105.28264,"Wonder,946 Pearl Street,Boulder, CO 80302","946 Pearl Street, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+96,40.01627,-105.26175,"Woodgrain Bagels,2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
+97,40.01627,-105.26175,"Yellowbelly Chicken,2525 Arapahoe Ave,Boulder, CO 80302","2525 Arapahoe Avenue, Boulder, CO, US",NA,MapQuest,address,Restaurants,#56B4E9,blue
