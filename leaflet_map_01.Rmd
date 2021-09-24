@@ -1,0 +1,42 @@
+---
+title: "Map with leaflet"
+author: "David Taylor"
+date: "9/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(leaflet)
+```
+
+# Merchant location for the CU Boulder Faltiron Meal Plan
+
+## 1. Synopsis
+This assignment consists of creating a map with the locations of merchants included in the CU Boulder flatironmeal plan (https://flatironmealplan.com/). The merchant addresses were used to retrieve longitude and latitudes via gpsvisualizer and stored as "flatironmeals_merchants_lng_lat.csv". The "flatironmeals_merchants_lng_lat.csv" file will be used as starting point for this assignment. These merchants are broken down into 5 groups  (On campus, Convenient store, Gas station, Grocery store, Restaurants) and each group will have it's own colored marker on the map.
+
+## 2. Load merchant data
+```{r import_data, cache=TRUE}
+#flatironmeals_merchants_lng_lat.csv in working directory
+df <- read.csv(paste0(getwd(), "/flatironmeals_merchants_lng_lat.csv"))
+```
+## 3. Generate map
+```{r mmap_data}
+
+icons <- awesomeIcons(
+  icon = "fa-bullseye",
+  iconColor = 'black',
+  library = 'fa',
+  markerColor = df$merchant_type_color2)
+  
+df %>% 
+  leaflet() %>%
+  addTiles() %>%
+  #addMarkers(popup = df$name)
+addAwesomeMarkers(lng = ~lng, lat = ~lat, icon = icons,label = ~as.character(name))%>%
+addLegend(labels = c("On campus", "Convinient store", "Gas station", "Grocery store", "Restaurant"), 
+                     colors = c("orange","red","pink","green", "#56B4E9"), opacity = 0.75)
+
+
+```
